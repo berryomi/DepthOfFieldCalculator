@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Depth of Field Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_calculator">Calculate Dof</string>
+    <string name="next_activity">next Activity!</string>
+    <string name="select_a_lens_to_use">Select a lens to use:</string>
+    <string name="textview">TextView</string>
+    <string name="textview_here">Textview here!</string>
+    <string name="depth_of_field">Depth of Field</string>
+    <string name="hyperfocal_distance">Hyperfocal Distance</string>
+    <string name="far_focal_distance">Far Focal Distance</string>
+    <string name="near_focal_distance">Near Focal Distance</string>
+    <string name="photo_details_with">Photo details with</string>
+    <string name="selected_aperture">Selected aperture</string>
+    <string name="distance_to_subject_m">Distance to subject [m]</string>
+    <string name="circle_of_confusion_m">Circle of Confusion [m]</string>
+    <string name="ex_2_8_for_f2_8">ex: 2.8 for F2.8</string>
+    <string name="ex_1_5_for_1_5m">ex: 1.5 for 1.5m</string>
+    <string name="_0_029">0.029</string>
+    <string name="calculate">Calculate</string>
+    <string name="enter_all_values">Enter all values</string>
+    <string name="title_activity_add_lens">AddLensActivity</string>
+    <string name="make">Make</string>
+    <string name="focal_length_mm">Focal Length [mm]</string>
+    <string name="aperture">Aperture</string>
+    <string name="ex_canon">ex: Canon</string>
+    <string name="ex_200_for_200mm">ex: 200 for 200mm</string>
+    <string name="ex_1_8_for_f1_8">ex. 1.8 for F1.8</string>
+    <string name="save">Save</string>
+    <string name="edit_lens">Edit Lens</string>
+    <string name="remove_lens">Remove Lens</string>
+    <string name="title_activity_edit_lens">EditLensActivity</string>
+    <string name="action_done">action_done</string>
+    <string name="optional_features_n_1_app_bar_buttons_n_2_edit_and_delete_lens_n_3_error_checking_input_n_4_auto_recalculate">Optional Features:  1. App Bar Buttons   2. Edit and Delete Lens   3. Error Checking Input   4. Auto-recalculate</string>
+    <string name="optional_features_n1_app_bar_buttons_n2_edit_and_delete_n3_error_checking_input_n4_auto_recalculate">Optional Features 1. App Bar Buttons  2. Edit and Delete 3. Error Checking Input  4. Auto-recalculate</string>
+</resources>
