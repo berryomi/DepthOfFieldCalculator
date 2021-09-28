@@ -18,8 +18,8 @@ The app calculates:
 
 <div align="center">
 	<div style="display:flex;">
-  		<img src="./screenshots/Home.png">
-  		<img src="./screenshots/enterValues.png">
-  		<img src="./screenshots/result.png">
+  		<img src="./screenshots/Home.png" width="300">
+  		<img src="./screenshots/enterValues.png" width="300">
+  		<img src="./screenshots/result.png" width="300">
 	</div>
 </div>
